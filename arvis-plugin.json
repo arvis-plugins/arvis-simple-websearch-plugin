@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jopemachine/arvis-extension-validator/master/plugin-schema.json",
+    "creator": "jopemachine",
+    "name": "arvis-simple-websearch-plugin",
+    "enabled": true,
+    "description": "Search web in Arvis easily",
+    "readme": "",
+    "version": "0.0.3",
+    "variables": {
+        "engines": {
+            "google": "https://www.google.com/search?q="
+        }
+    },
+    "defaultIcon": "icon.png",
+    "main": "index.js",
+    "webAddress": "https://github.com/jopemachine/arvis-simple-websearch-plugin",
+    "actions": [
+        {
+            "type": "open",
+            "modifiers": "normal",
+            "target": "{query}"
+        }
+    ]
+}

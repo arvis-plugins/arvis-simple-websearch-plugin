@@ -1,0 +1,29 @@
+{
+  "name": "arvis-simple-websearch-plugin",
+  "version": "0.0.3",
+  "description": "Search web in Arvis easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "arvish-init",
+    "preuninstall": "arvish-cleanup",
+    "prepublishOnly": "arvish-prepublish"
+  },
+  "keywords": [
+    "arvis",
+    "arvish",
+    "arvis-plugin"
+  ],
+  "files": [
+    "index.js",
+    "icon.png",
+    "favicons/**",
+    "arvis-plugin.json"
+  ],
+  "author": "jopemachine",
+  "license": "MIT",
+  "dependencies": {
+    "arvish": ">=0.5.7",
+    "parse-json": "^5.2.0"
+  }
+}
