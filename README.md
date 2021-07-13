@@ -12,10 +12,11 @@ Simple web search plugin for Arvis.
 
 ## Usage
 
-Add more web search engine you want to below config table.
+You can add more web search engine you want to below config table.
 
 ![](./setting.png)
 
+If there is no favicon of the web site, you can add the favicon png icon to `favicon` folder manually.
 
 ## Related
 
