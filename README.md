@@ -23,3 +23,9 @@ If there is no favicon of the web site, you can add the favicon png icon to `fav
 - [arvish](https://github.com/jopemachine/arvish) - Arvis workflow, plugin creator tools
 
 - [available plugins](https://github.com/jopemachine/arvis/blob/master/documents/plugin-links.md)
+
+## Icon sources
+
+This lib uses below icon sources
+
+<a target="_blank" href="https://icons8.com">Image</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
