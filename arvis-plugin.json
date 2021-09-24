@@ -5,7 +5,7 @@
     "enabled": true,
     "description": "Search web in Arvis easily",
     "readme": "",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "variables": {
         "engines": {
             "google": "https://www.google.com/search?q="
@@ -13,7 +13,7 @@
     },
     "defaultIcon": "icon.png",
     "main": "index.js",
-    "webAddress": "https://github.com/jopemachine/arvis-simple-websearch-plugin",
+    "webAddress": "https://github.com/arvis-plugins/arvis-simple-websearch-plugin",
     "actions": [
         {
             "type": "open",

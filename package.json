@@ -1,6 +1,6 @@
 {
   "name": "arvis-simple-websearch-plugin",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Search web in Arvis easily",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "author": "jopemachine",
   "license": "MIT",
   "dependencies": {
-    "arvish": ">=0.5.7",
+    "arvish": ">=0.8.3",
     "parse-json": "^5.2.0"
   }
 }

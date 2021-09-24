@@ -11,7 +11,7 @@ const getPluginItem = ({ inputStr }) => {
     if (!engines[engine]) return;
 
     items.push({
-      title: `Search "${inputStr}" on ${engine}`,
+      title: `Search '${inputStr.trim()}' on ${engine}`,
       subtitle: `${engines[engine]}${inputStr}`,
       arg: `${engines[engine]}${inputStr}`,
       icon: {

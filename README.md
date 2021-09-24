@@ -22,7 +22,7 @@ If there is no favicon of the web site, you can add the favicon png icon to `fav
 
 - [arvish](https://github.com/jopemachine/arvish) - Arvis workflow, plugin creator tools
 
-- [available plugins](https://github.com/jopemachine/arvis/blob/master/documents/plugin-links.md)
+- [available plugins](https://github.com/jopemachine/arvis-store/blob/master/docs/plugin-links.md)
 
 ## Icon sources
 
